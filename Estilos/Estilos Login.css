@@ -1,0 +1,38 @@
+.pag_login{
+    background-color: aliceblue;
+    text-align: center;
+    padding: 200px;
+}
+
+.box_login{
+    display: inline-block;
+    background-color: white;
+    box-shadow: 3px 3px 5px 2px #ccc;
+    padding: 25px 20px 0px 0px;
+    border-radius: 20px;
+    width: 400px;
+    padding-bottom: 25px;
+}
+
+.pag_login .input-padrão{
+    width: 50%;
+    display: inline-block;
+}
+
+.botão_vinho{
+    color: white;
+    background-color: rgb(160, 41, 41);
+    margin: 50px 0 20px 0;
+    border: 0;
+    padding: 10px 20px;
+
+    border-radius: 5px;
+    float: left;
+    cursor: pointer;
+}
+
+.pag_login .botão_vinho{
+    display: block;
+    float: none;
+    margin: auto;
+}
