@@ -21,7 +21,7 @@ body{
     margin: 0 auto
 }
 
-img {
+.logo_página{
     height: 85px;
     float: left;
 }
@@ -78,7 +78,7 @@ ul li{
 .caixa_atualizações{
     max-width: 1280px;
     height: 100%;
-    margin: 15px auto;
+    margin: 0px auto;
     }
 
 .cabeçalho_atualizações{
@@ -86,7 +86,7 @@ ul li{
 }
 
 .corpo{
-    background-image: url(LanaDelRey.jpg);
+    background-image: url(LanaDelRey1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 570px;
@@ -97,7 +97,6 @@ ul li{
 .titulo{
     color:aliceblue;
     font-size: 50px;
-    margin-left: 550px;
     text-align: center;
   background-size: cover;
 }
@@ -105,7 +104,6 @@ ul li{
 .paragrafo{
     color: aliceblue;
     font-size: 30px;
-    margin-left: 95px;
 }
 
 .sobre_site{
@@ -115,32 +113,34 @@ ul li{
     
 }
 
-.imagens{
+.img_sobre_empresa{
     display: inline;
-    height: 50px;
     text-align: center;
 }
 
 .um{
-    padding-left: 350px;
+    padding-left: 320px;
     padding-right: 250px;
+    height: 100px;
 }
 
 .dois{
-    padding-right: 250px;
+    padding-right: 260px;
+    height: 100px;
 }
 
 .tres{
-    padding: right 250px;;
+    padding: right 250px;
+    height: 100px;
 }
 
 .missao{
-    padding-left: 350px;
-    padding-right: 300px;
+    padding-left: 320px;
+    padding-right: 310px;
 }
 
 .visao{
-    padding-right: 270px;
+    padding-right: 330px;
 }
 
 .valores{
@@ -148,16 +148,16 @@ ul li{
 }
 
 .descri1{
-    padding-left: 300px;
-    padding-right: 130px;
+    padding-left: 250px;
+    padding-right: 160px;
 }
 
 .descri2{
-    padding-right: 130px;
+    padding-right: 180px;
 }
 
 .descri3{
-    padding-right: 100px;
+    padding-right: 150px;
 }
 
 .info_rodapé{
@@ -166,9 +166,6 @@ ul li{
     height: 50px;
     text-align: center;
     padding-top: 25px;
-    position: absolute;
-    bottom: 0px;
-    
 }
 
 .texto_info{
