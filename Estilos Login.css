@@ -19,6 +19,12 @@
     display: inline-block;
 }
 
+.input-padrão{
+    padding-left: 10px;
+    border-radius: 5px;
+    height: 40px;
+}
+
 .botão_vinho{
     color: white;
     background-color: rgb(160, 41, 41);
